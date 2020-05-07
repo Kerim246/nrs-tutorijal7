@@ -18,4 +18,4 @@ http.createServer((req, res) => {
             // res.end(JSON.stringify(niz + "\n"));  // Konvertovanje objekta u string 
         });
     }
-}).listen(8000);
+}).listen(8080);
